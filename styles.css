@@ -10,13 +10,13 @@ header{
 	color:white;	
 	
 }
-.latest{
+..latest-news-section{
 	background:white;
 	border:1px solid black;
 	border-radius:5px;
 	margin:5px 0px;
 }
-.pictorailNews{
+.pictorial-news-section{
 	background:white;
 	width:100%;
 	height:200px;
